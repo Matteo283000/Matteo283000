@@ -79,18 +79,7 @@ Projet complet de **scraping web**, nettoyage et analyse de données e-commerce 
 
 ---
 
-## 🎯 Objectif
-
-Développer des compétences solides en Python appliqué à :
-- l’automatisation de tâches,
-- l’analyse de données,
-- la collecte d’informations via le web.
-
-À terme, proposer des **services freelance en Python** : scripts sur mesure, scraping, nettoyage et analyse de données.
-
----
-
 ## 📫 Me contacter
 
-- GitHub : https://github.com/MatteoRoulle
-- LinkedIn : (en cours de configuration)
+- [GitHub](https://github.com/MatteoRoulle)
+- [LinkedIn](https://www.linkedin.com/in/matt%C3%A9o-roulle-9468863a0/)
